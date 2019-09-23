@@ -1,6 +1,6 @@
 Feature: Form filling
 
-  Scenario: Login form testing
+  Scenario: Register new account
     Given I am on the site
     When I fill the form
     When I fill the second form
